@@ -1,0 +1,14 @@
+data_path: './datasets/UD20/processed/all.csv'
+num_languages: 62
+model_name: 'xlmr'
+tensorboard_dir: './runs/xlmr/'
+epoch_number: 4
+batch_size: 32
+learning_rate: 5e-4
+warmup_steps: 50000
+gpu: 'true'
+save_every_epoch: 1
+ckpt_dir: './ckpts/xlmr/'
+update_every_step: 10
+seed: 24
+max_length: 300

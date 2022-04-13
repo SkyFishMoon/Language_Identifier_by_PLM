@@ -1,0 +1,4 @@
+.idea/*
+ckpts/*
+datasets/UD20/processed/*
+datasets/UD20/raw/*

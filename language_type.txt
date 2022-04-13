@@ -1,0 +1,106 @@
+Afrikaans  af
+Albanian  sq
+Arabic  ar
+Aragonese  an
+Armenian  hy
+Asturian  ast
+Azerbaijani  az
+Bashkir ba
+Basque  eu
+Bavarian  bar
+Belarusian  be
+Bengali  bn
+Bishnupriya Manipuri bpy
+Bosnian  bs
+Breton  br
+Bulgarian bg
+Burmese  my
+Catalan  ca
+Cebuano  ceb
+Chechen  ce
+Chinese (Simplified)  zh
+Chinese (Traditional)  zh-yue
+Chuvash  cv
+Croatian  hr
+Czech  cs
+Danish  da
+Dutch  nl
+English  en
+Estonian  et
+Finnish  fi
+French  fr
+Galician  gl
+Georgian  ka	
+German  de
+Greek  el
+Gujarati  gu
+Haitian  ht
+Hebrew  he
+Hindi  hi
+Hungarian  hu
+Icelandic  is
+Ido  io
+Indonesian  id
+Irish  ga
+Italian  it
+Japanese  ja
+Javanese  jv
+Kannada  kn
+Kazakh  kk
+Kirghiz  ky
+Korean  ko
+Latin  la
+Latvian  lv
+Lithuanian  lt
+Lombard  lmo
+Low Saxon  nds
+Luxembourgish  lb
+Macedonian  mk
+Malagasy  mg
+Malay  ms
+Malayalam  ml
+Marathi  mr
+Minangkabau  min
+Nepali  ne	
+Newar  new
+Norwegian (Bokmal)  no
+Norwegian (Nynorsk)  nn
+Occitan  oc
+Persian (Farsi)  fa
+Piedmontese  pms
+Polish  pl
+Portuguese  pt
+Punjabi  pa
+Romanian  ro
+Russian  ru
+Scots  sco
+Serbian  sr
+Serbo-Croatian  sh
+Sicilian  scn
+Slovak  sk
+Slovenian  sl
+South Azerbaijani  azb
+Spanish  es
+Sundanese  su
+Swahili  sw
+Swedish  sv
+Tagalog  tl
+Tajik  tg
+Tamil  ta
+Tatar  tt
+Telugu  te
+Turkish  tr
+Ukrainian  uk
+Urdu  ur
+Uzbek  uz
+Vietnamese  vi
+Volapük  vo
+Waray-Waray  war
+Welsh  cy
+West Frisian  fy
+Western Punjabi  pnb
+Yoruba  yo
+
+Thi th
+
+af sq ar an hy ast az ba eu bar be bn bpy bs br bg my ca ceb ce zh zh-yue cv hr cs da nl en et fi fr gl ka de el gu ht he hi hu is io id ga it ja jv kn kk ky ko la lv lt lmo nds lb mk mg ms ml mr min ne new no nn oc fa pms pl pt pa ro ru sco sr sh scn sk sl azb es su sw sv tl tg ta tt te tr uk ur uz vi vo war cy fy pnb yo  th
